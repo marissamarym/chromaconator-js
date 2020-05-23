@@ -63,7 +63,7 @@ const letterArray = [
 ];
 
 function chromaconate(input) {
-  const output = "";
+  let output = "";
 
   // Make input string lowercase, use '!' to denote linebreaks, and remove
   // all other non-color-coded characters.
