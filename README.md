@@ -9,3 +9,4 @@ Load index.html into your HTML5 browser to see a simple demo.
 
 License: MIT
 
+Demo: https://marissamarym.github.io/chromaconator-js/
